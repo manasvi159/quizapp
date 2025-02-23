@@ -1,0 +1,26 @@
+[33mcommit 53428440596b430d48c47160b30c438301050e38[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: manasvi <manasvinik200@gmail>
+Date:   Sat Feb 22 14:55:29 2025 -0600
+
+    footer about add
+
+[1mdiff --git a/about.html b/about.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/footer.html b/footer.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 3d99a98..e322cef 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -5,6 +5,8 @@[m
+     <meta name="viewport"content="width=device-width,initial-scale=1.0"/>[m
+     <title> Document</title>[m
+     </head>[m
+[31m-    <body></body>[m
+[32m+[m[32m    <body>[m
+[32m+[m[32m      <nav>This is nav</nav>[m
+[32m+[m[32m    </body>[m
+       </html>[m
+   </head>[m
